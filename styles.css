@@ -1,7 +1,7 @@
 /* Background color and centralization */
 body {
   background-color: hsl(30, 54%, 90%);
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,17 +42,17 @@ img {
 }
 
 .container {
-  max-height: 100vh;
-  /* Ensures the card is centralized and evenly spaced -
-  removes extra space below the container */
+  width: 90%;
+  margin: 8em;
+  max-width: 800px; /* Allows for maximum width - larger screens (desktop) */
 }
 
 .card {
-  max-width: 100%; /* Ensure card doesn't overflow */
-  max-height: 100%;
+  width: 90%;
+  max-width: 90%;
   border-radius: 1rem;
-  margin: 8rem; /* Create space above and below the card */
-  padding: 2rem;
+  margin: 2em;
+  padding: 2em;
 }
 
 /* Ordered and unordered lists */
