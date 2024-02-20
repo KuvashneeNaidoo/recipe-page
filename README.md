@@ -46,8 +46,6 @@ Small screen (iPhone 14 Pro - 430 x 932)
 I learn't about how the marker pseudo-element can be used to target and style the numbers and bullet points
 in the ordered and unordered lists.
 
-To see how you can add code snippets, see below:
-
 ```css
 ol li::marker {
   color: hsl(14, 45%, 36%); /* The marker is the number */
@@ -62,8 +60,7 @@ ul li::marker {
 
 ### Continued development
 
-I plan to use React.js to create the different components of this recipe page soon. I will also try using React Bootstrap
-to style the elements attractively.
+I plan to use React.js to create the different components of this recipe page soon. I will also try using React Bootstrap to style the elements attractively.
 
 ### Useful resources
 
