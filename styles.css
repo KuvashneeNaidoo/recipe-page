@@ -1,6 +1,10 @@
-/* Background */
+/* Background color and centralization */
 body {
   background-color: hsl(30, 54%, 90%);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /* Fonts and list style */
@@ -37,8 +41,15 @@ img {
   padding: 1rem;
 }
 
+.container {
+  max-height: 100vh;
+  /* Ensures the card is centralized and evenly spaced -
+  removes extra space below the container */
+}
+
 .card {
   max-width: 100%; /* Ensure card doesn't overflow */
+  max-height: 100%;
   border-radius: 1rem;
   margin: 8rem; /* Create space above and below the card */
   padding: 2rem;
