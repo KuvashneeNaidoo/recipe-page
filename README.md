@@ -25,7 +25,7 @@ Large screen (desktop):
 Small screen (iPad mini - 768 x 1024)
 ![iPad Mini](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/c48ed5fc-4a20-40ff-b733-13914e6c201e)
 
-Small screen (iPhone 14 Pro - 430 x 932)
+Small screen (iPhone 14 Pro Max - 430 x 932)
 ![iPhone 14 Pro Max](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/94786dab-b938-456e-9dcb-710b36ac4dc1)
 
 ### Links
