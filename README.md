@@ -17,7 +17,7 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ## Overview
 
-### Screenshot
+### Screenshots
 
 Large screen (desktop):
 ![Desktop](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/a68f8647-8dfb-4a3c-863b-796e7cdda616)
