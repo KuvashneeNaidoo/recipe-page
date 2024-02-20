@@ -1,4 +1,4 @@
-# Frontend Mentor - Recipe page solution
+# Recipe page 
 
 This is my solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -30,7 +30,7 @@ Small screen (iPhone 14 Pro - 430 x 932)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/KuvashneeNaidoo/recipe-page
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
