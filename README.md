@@ -31,7 +31,7 @@ Small screen (iPhone 14 Pro - 430 x 932)
 ### Links
 
 - Solution URL: https://github.com/KuvashneeNaidoo/recipe-page
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://main--html-recipe-page.netlify.app/
 
 ## My process
 
@@ -47,13 +47,15 @@ I learn't about how the marker pseudo-element can be used to target and style th
 in the ordered and unordered lists.
 
 ```css
+/* The marker is the number */
 ol li::marker {
-  color: hsl(14, 45%, 36%); /* The marker is the number */
+  color: hsl(14, 45%, 36%);
   font-weight: 600;
 }
 
+/* The marker is the bullet points */
 ul li::marker {
-  color: hsl(14, 45%, 36%); /* The marker is the bullet points */
+  color: hsl(14, 45%, 36%); 
   font-weight: 600;
 }
 ```
