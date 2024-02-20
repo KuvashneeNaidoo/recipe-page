@@ -19,8 +19,14 @@ This is my solution to the [Recipe page challenge on Frontend Mentor](https://ww
 
 ### Screenshot
 
-Full screen (desktop):
-![recipe-page](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/3142ca85-8306-4200-8231-951d45ffb372)
+Large screen (desktop):
+![Desktop](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/a68f8647-8dfb-4a3c-863b-796e7cdda616)
+
+Small screen (iPad mini - 768 x 1024)
+![iPad Mini](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/c48ed5fc-4a20-40ff-b733-13914e6c201e)
+
+Small screen (iPhone 14 Pro - 430 x 932)
+![iPhone 14 Pro Max](https://github.com/KuvashneeNaidoo/recipe-page/assets/105747929/94786dab-b938-456e-9dcb-710b36ac4dc1)
 
 ### Links
 
